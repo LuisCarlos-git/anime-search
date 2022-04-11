@@ -1,5 +1,3 @@
-function App() {
-  return <h1>Hello project</h1>;
-}
+const App = () => <h1>olá</h1>;
 
 export default App;

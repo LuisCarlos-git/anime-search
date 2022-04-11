@@ -41,7 +41,7 @@ export default {
     red: '#F43735',
     redSuperLigthen: '#FFCDD2',
     white: '#ffffff',
-    black: '#202020 ',
+    black: '#191920 ',
     shadow: 'rgba(0, 0, 0, 0.25) ',
     gray: '#959595 ',
   },
